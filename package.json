@@ -1,5 +1,5 @@
 {
-  "name": "avlon",
+  "name": "natours",
   "version": "1.0.0",
   "description": "Landing page natours",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dhaivat28/avlon.git"
+    "url": "git+https://github.com/dhaivat28/natours.git"
   },
   "author": "Dhaivat Parikh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dhaivat28/avlon/issues"
+    "url": "https://github.com/dhaivat28/natours/issues"
   },
-  "homepage": "https://github.com/dhaivat28/avlon#readme",
+  "homepage": "https://github.com/dhaivat28/natours#readme",
   "devDependencies": {
     "node-sass": "^4.12.0"
   }
